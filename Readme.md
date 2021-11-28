@@ -10,6 +10,7 @@
 </a>
 <a href="https://www.behance.net/aljesaga?tracking_source=search_users_recommended%7CAlessandro%20sanchez">
   <img align="left" alt="Aljesaga Behance" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aljesaga.aljesaga)
 
@@ -23,26 +24,28 @@ Future UX / UI Designer for mobile applications :D
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 do reach me, [email](alejesaga1@gmail.com) :D
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help
 
 **languages and tools:**  
 
 🌐 HTML and CSS
+<br />
 💻 Adobe suit
+<br />
 🖥️ C Code
 
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-studying at 42 Madrid   8 hrs 50 min     █████████▓░░░░░░░░░░░░░░░
-Working                 40 hrs           ██████████████████▓░░░░░░
+studying    8 hrs 50 min     █████████▓░░░░░░░░░░░░░░░
+Working     40 hrs           ██████████████████▓░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee 🥺👉👈
+if you like what i do, maybe consider buying me a coffee
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- TODO-IST:END -->
 
