@@ -38,8 +38,8 @@ Future UX / UI Designer for mobile applications :D
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-studying    8 hrs 50 min     █████████▓░░░░░░░░░░░░░░░
-Working     40 hrs           ██████████████████▓░░░░░░
+studying    8 hrs 50 min     ███▓░░░░░░░░
+Working     40 hrs           ████████▓░░░
 ```
 <!--END_SECTION:waka-->
 
