@@ -9,7 +9,7 @@
   <img align="left" alt="Alesaga's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.behance.net/aljesaga?tracking_source=search_users_recommended%7CAlessandro%20sanchez">
-  <img align="left" alt="Aljesaga Behance" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/behance.svg" />
+  <img align="left" alt="Aljesaga Behance" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aljesaga.aljesaga)
 
