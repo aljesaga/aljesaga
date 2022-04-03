@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/alessandro-jesus-sánchez-gamberini-4a405412b/">
   <img align="left" alt="Aljesaga's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/alejesaga1?si=8462062b902b432e">
-  <img align="left" alt="Alesaga's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://www.behance.net/aljesaga?tracking_source=search_users_recommended%7CAlessandro%20sanchez">
   <img align="left" alt="Aljesaga Behance" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" />
 </a>
@@ -43,9 +40,6 @@ Working     40 hrs           ████████▓░░░
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee
-
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- TODO-IST:END -->
 
