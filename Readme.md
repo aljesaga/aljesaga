@@ -1,10 +1,5 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/aljesg">
-  <img align="left" alt="Alessandro Sanchez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alessandro-jesus-sánchez-gamberini-4a405412b/">
-  <img align="left" alt="Aljesaga's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <a href="https://www.behance.net/aljesaga?tracking_source=search_users_recommended%7CAlessandro%20sanchez">
   <img align="left" alt="Aljesaga Behance" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" />
 </a>
@@ -14,8 +9,6 @@
 <br />
 
 hi, i'm Alessandro Sanchez, Graphic / web designer and programming student at 42 Madrid. Passionate about design, technology, videogames
-
-Future UX / UI Designer for mobile applications :D
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
